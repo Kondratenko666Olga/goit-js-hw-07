@@ -53,3 +53,4 @@ images.forEach(image => {
 });
 
 galleryList.appendChild(fragment);
+
